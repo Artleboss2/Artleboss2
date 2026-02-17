@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Artleboss2
-- 👀 I’m interested in  Fortnite
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Just coding
 
 <!---
 Artleboss2/Artleboss2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
