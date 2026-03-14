@@ -1,6 +1,8 @@
 <div align="center">
 
-```
+
+<pre>
+<font color="#4ade80">
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
 ║        ░█████╗░██████╗░████████╗██╗░░░░░███████╗██████╗░      ║
@@ -10,10 +12,12 @@
 ║        ██║░░██║██║░░██║░░░██║░░░███████╗███████╗██████╦╝      ║
 ║        ╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚══════╝╚══════╝╚═════╝       ║
 ║                                                               ║
-║              Building things that work.                       ║
+║               Building things that work.                      ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
-```
+</font>
+</pre>
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-artleboss2.github.io-000000?style=flat-square&logo=github&logoColor=white)](https://artleboss2.github.io)
 [![Email](https://img.shields.io/badge/Email-agodart.ca%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@artleboss.com)
