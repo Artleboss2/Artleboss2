@@ -16,7 +16,7 @@
 ```
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-artleboss2.github.io-000000?style=flat-square&logo=github&logoColor=white)](https://artleboss2.github.io)
-[![Email](https://img.shields.io/badge/Email-contact%40artleboss.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@artleboss.com)
+[![Email](https://img.shields.io/badge/Email-agodart.ca%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@artleboss.com)
 [![Repos](https://img.shields.io/badge/Open%20Source-24%20repos-000000?style=flat-square&logo=git&logoColor=white)](https://github.com/Artleboss2?tab=repositories)
 
 </div>
