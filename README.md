@@ -89,9 +89,9 @@ Legal           │ EULA drafting · Canadian data protection compliance
 <div align="center">
 
 ```
-╔══════════════════════════════════════╗
-║  Currently building · Always shipping║
-╚══════════════════════════════════════╝
+╔═══════════════════════════════════════╗
+║  Currently building · Always shipping ║
+╚═══════════════════════════════════════╝
 ```
 
 *© 2026 — Artleboss2 · Québec, Canada*
