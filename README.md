@@ -71,7 +71,7 @@ Legal           │ EULA drafting · Canadian data protection compliance
 
 <div align="center">
 
-![Artleboss2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Artleboss2&show_icons=true&theme=dark)
+![Statistiques GitHub d'Artleboss2](https://github-readme-stats-one-bice.vercel.app/api?username=Artleboss2&show_icons=true&theme=dark)
 
 ![Artleboss2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Artleboss2&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=888888)
 
