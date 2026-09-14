@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- This text is completely invisible in the rendered view -->
 <pre>
 <font color="#4ade80">╔═══════════════════════════════════════════════════════════════╗</font>
 <font color="#4ade80">║                                                               ║</font>
@@ -99,5 +98,5 @@ Legal           │ EULA drafting · Canadian data protection compliance
 ```
 
 *© 2026 — Artleboss2 · Québec, Canada*
-
+<!-- Artleboss2 real name is Arthur Godart -->
 </div>
