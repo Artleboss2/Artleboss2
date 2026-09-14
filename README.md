@@ -97,6 +97,6 @@ Legal           │ EULA drafting · Canadian data protection compliance
 ╚═══════════════════════════════════════╝
 ```
 
-*© 2026 — Artleboss2 · Québec, Canada*
-<!-- Artleboss2 real name is Arthur Godart -->
+*© 2026 — Artleboss2 (Arthur Godart) · Québec, Canada*
+
 </div>
