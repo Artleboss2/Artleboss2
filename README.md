@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<span style="display:none">A</span>
 <pre>
 <font color="#4ade80">╔═══════════════════════════════════════════════════════════════╗</font>
 <font color="#4ade80">║                                                               ║</font>
