@@ -1,6 +1,6 @@
 <div align="center">
 
-<span style="display:none">A</span>
+<!-- This text is completely invisible in the rendered view -->
 <pre>
 <font color="#4ade80">╔═══════════════════════════════════════════════════════════════╗</font>
 <font color="#4ade80">║                                                               ║</font>
