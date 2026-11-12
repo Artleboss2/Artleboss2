@@ -70,11 +70,11 @@ Legal           │ EULA drafting · Canadian data protection compliance
 
 <div align="center">
 
-![Statistiques GitHub d'Artleboss2](https://github-readme-stats-one-bice.vercel.app/api?username=Artleboss2&show_icons=true&theme=dark)
-
 ![Artleboss2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Artleboss2&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=888888)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Artleboss2&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=888888)
+[![AI Coding Activity on Glyphi](https://glyphi.xyz/api/cards/artleboss2/heatmap.svg?theme=dark&accent=3fb950&cell=161b22)](https://glyphi.xyz/@artleboss2)
+
+[![AI Coding Token Usage on Glyphi](https://glyphi.xyz/api/cards/artleboss2/tokens.svg?period=30d&theme=dark&accent=3fb950&cell=161b22)](https://glyphi.xyz/@artleboss2)
 
 </div>
 
